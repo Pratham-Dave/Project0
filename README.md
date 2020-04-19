@@ -28,13 +28,12 @@ This website consist of the following components:
 - One SCSS File
 - Hyperlinks
 - Buttons
-- Few images(which are included in images folder)
+- Few images (which are included in images folder)
 - Bootstrap components
 - Media queries
 
 ## Using CSS
 CSS has been used in this website for styling. Whatever colors , fonts ,margins ,padding you are able to see is because of the CSS.CSS has been linked into every HTML file so that every file gets the attributes of the CSS file.
-Syntax for linking CSS in HTML file is : <link rel="stylesheet" href="css-filename.css">
 
 ## Using SCSS
 SCSS file has been added beacuse a variable can be addded in an SCSS file which further helps in reducing the code.But as the browsers do not support SCSS files , so they are converted to CSS file and then are implemented in the program.
