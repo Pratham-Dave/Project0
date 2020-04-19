@@ -37,5 +37,8 @@ CSS has been used in this website for styling. Whatever colors , fonts ,margins 
 Syntax for linking CSS in HTML file is : <link rel="stylesheet" href="css-filename.css">
 
 ## Using SCSS
+SCSS file has been added beacuse a variable can be addded in an SCSS file which further helps in reducing the code.But as the browsers do not support SCSS files , so they are converted to CSS file and then are implemented in the program.
+Syntax for making a css file from SCSS
+- git sass color.scss color.css (this creates a new css file of the scss file.)
 
 
