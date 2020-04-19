@@ -1,6 +1,7 @@
 # Project0
-### The concept of this website is related to school management. I have implemented it for my school. ###
-### It consist of four pages. ###
+The concept of this website is related to school management. I have implemented it for my school. 
+
+It consist of four pages. 
 - Home
 - Admission
 - Gallery
