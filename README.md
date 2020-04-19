@@ -1,11 +1,10 @@
 # Project0
-I have made a website on a school.
-
-It consist of four pages. 
+### The concept of this website is related to school management. I have implemented it for my school. ###
+### It consist of four pages. ###
 - Home
 - Admission
 - Gallery
-- Contact Us
+- Contact Us 
 
 ## Home
 This is the main page of our website and it is present in the root directory.It contains all the basic information related to school like when was it established etc.It is also the landing page of our website.
