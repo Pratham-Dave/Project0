@@ -15,6 +15,7 @@ This page consist of information related to the admission process of the school.
 
 ## Gallery
 This page consist of few images of the school , which includes images of the auditorium , classes , ground and also the main building.
+Each page consist of information related to school and imaged related to school.
 
 ## Contact Us
 It consist of information related to contacting the school like email , telephone number , fax etc.
@@ -31,6 +32,10 @@ This website consist of the following components:
 - Bootstrap components
 - Media queries
 
+## Using CSS
+CSS has been used in this website for styling. Whatever colors , fonts ,margins ,padding you are able to see is because of the CSS.CSS has been linked into every HTML file so that every file gets the attributes of the CSS file.
+Syntax for linking CSS in HTML file is : <link rel="stylesheet" href="css-filename.css">
+
+## Using SCSS
 
 
-Each page consist of information related to school and imaged related to school.
